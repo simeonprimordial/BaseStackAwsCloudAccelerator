@@ -1,1 +1,5 @@
-
+Step 1 Create Three IAM Groups
+Step 2 Create Three IAM Users
+Step 3 Test Permissions by Signing In
+Step 4 Create an EC2 IAM Role
+Step 5 Draw Your IAM Architecture
